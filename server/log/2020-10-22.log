@@ -1,0 +1,8 @@
+[GIN-VUE-ADMIN]2020/10/22 - 15:01:46.082	[31merror[0m	MySQL启动异常	{"err": "dial tcp 127.0.0.1:3306: connect: connection refused"}
+[GIN-VUE-ADMIN]2020/10/22 - 15:07:25.114	[31merror[0m	MySQL启动异常	{"err": "Error 1045: Access denied for user 'shuwen-gin-vue-a\t'@'27.186.177.191' (using password: YES)"}
+[GIN-VUE-ADMIN]2020/10/22 - 15:08:33.416	[34minfo[0m	register table success
+[GIN-VUE-ADMIN]2020/10/22 - 15:08:33.418	[34minfo[0m	use middleware logger
+[GIN-VUE-ADMIN]2020/10/22 - 15:08:33.418	[34minfo[0m	use middleware cors
+[GIN-VUE-ADMIN]2020/10/22 - 15:08:33.418	[34minfo[0m	register swagger handler
+[GIN-VUE-ADMIN]2020/10/22 - 15:08:33.433	[34minfo[0m	router register success
+[GIN-VUE-ADMIN]2020/10/22 - 15:08:33.433	[34minfo[0m	server run success on 	{"address": ":8888"}
